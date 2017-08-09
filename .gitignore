@@ -1,3 +1,6 @@
+*.user
+*.opendb
+crashfix_service/ipch
 /crashfix_service/bin
 /crashfix_service/daemon/Debug
 /crashfix_service/daemon/Release
