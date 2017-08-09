@@ -1,3 +1,6 @@
+*.dll
+*.ilk
+*.pdb
 *.user
 *.opendb
 crashfix_service/ipch
